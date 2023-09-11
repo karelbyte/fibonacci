@@ -16,7 +16,7 @@ Esta es una API simple que calcula valores de la secuencia de Fibonacci según u
     ```json
     {
       "n": 5,
-      "resultado": 5
+      "result": 5
     }
     ```
 - **Respuesta de Error**:
@@ -24,7 +24,7 @@ Esta es una API simple que calcula valores de la secuencia de Fibonacci según u
   - Cuerpo de Respuesta JSON en caso de índice no válido:
     ```json
     {
-      "error": "El valor de n debe ser un número entero no negativo."
+      "error": "The value of n must be a non-negative integer."
     }
     ```
 
