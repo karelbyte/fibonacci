@@ -33,8 +33,8 @@ Esta es una API simple que calcula valores de la secuencia de Fibonacci según u
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/mi-api-fibonacci.git
-   cd mi-api-fibonacci```
+   git clone https://github.com/karelbyte/fibonacci
+   cd fibonacci```
 
 ## Optimizaciones Futuras
 1. Implementar un sistema de caché para almacenar valores de Fibonacci ya calculados y mejorar el rendimiento.
